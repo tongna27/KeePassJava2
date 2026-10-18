@@ -1,0 +1,1 @@
+docker build --build-arg GERRIT_WAR_URL="<url>" -t gerritcodereview/gerrit -f Dockerfile-dev .
